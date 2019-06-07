@@ -1,7 +1,7 @@
 ## Cadint Wiki
 
-Welcome to the Cadint Wiki Pages
-Select the <Wiki> above to open the Wiki Pages
-The table of contents can then be selected from the sidebar on the right
+Welcome to the Cadint Wiki Pages  +
+Select the <Wiki tag> above to open the Wiki Pages  +
+The table of contents can then be selected from the sidebar on the right  +
 
 Happy reading !!
